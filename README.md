@@ -20,3 +20,7 @@
 </div><br/>
 
 Atualmente cursando técnico em Desenvolvimento de Sistemas no SENAI-Valinhos
+
+## Linguagens Mais Utilizadas
+
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pablodelgado26&layout=compact&langs_count=8&theme=great-gatsby)

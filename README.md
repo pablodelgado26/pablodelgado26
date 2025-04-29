@@ -22,3 +22,11 @@ Atualmente cursando técnico em Desenvolvimento de Sistemas no SENAI-Valinhos
 ## Linguagens Mais Utilizadas
 
 ![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pablodelgado26&layout=compact&langs_count=8&theme=great-gatsby)
+
+## Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pablodelgado26/pablodelgado26/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pablodelgado26/pablodelgado26/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/pablodelgado26/pablodelgado26/output/pacman-contribution-graph.svg">
+</picture>

@@ -86,7 +86,7 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, focando n
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablodelgado26&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodelgado26&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablodelgado26&layout=compact&langs_count=8&theme=react&cache_seconds=0"/>
 </div>
 
 ---

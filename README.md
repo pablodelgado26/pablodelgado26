@@ -87,7 +87,7 @@ pablo@valinhos:~$ status
 <td><b>📱 Mobile</b></td>
 <td>
   <a href="https://reactnative.dev/" title="React Native"><img src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
-  <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" width="52" height="52" alt="Android Studio"/></a>
+  <a href="https://developer.apple.com/swift/" title="Swift (iOS)"><img src="https://skillicons.dev/icons?i=swift" width="52" height="52" alt="Swift"/></a>
 </td>
 </tr>
 <tr>
@@ -111,6 +111,7 @@ pablo@valinhos:~$ status
   <a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="52" height="52" alt="GitHub"/></a>
   <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="52" height="52" alt="VS Code"/></a>
   <a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="52" height="52" alt="Figma"/></a>
+  <a href="https://developer.apple.com/xcode/" title="Xcode"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="52" height="52" alt="Xcode"/></a>
 </td>
 </tr>
 </table>
